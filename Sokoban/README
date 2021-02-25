@@ -2,4 +2,4 @@ Sokoban Game implementation with data structures.
 I used Linked List, Stack and Queue data structures.
 One page code in main.cpp file.
 It would be better to seperate it to header and source files for a better reading.
-txt file inculdes sokoban game map. It can be changed upon request.
+txt file includes sokoban game map. It can be changed upon request.
