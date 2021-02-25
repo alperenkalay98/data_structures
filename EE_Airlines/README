@@ -2,4 +2,4 @@ A fictious airline company implementation with data structures.
 I used Tree and Graph data structures.
 One page code in main.cpp file.
 It would be better to seperate it to header and source files for a better reading.
-txt file inculdes city names. It can be changed upon request.
+txt file includes city names. It can be changed upon request.
