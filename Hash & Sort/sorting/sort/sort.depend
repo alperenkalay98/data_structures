@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1609627217 source:c:\users\alper\desktop\odt‹\441\pa3\sorting\sort\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<fstream>
+	<ctime>
+
