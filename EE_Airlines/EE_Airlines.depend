@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1608322810 source:c:\users\alper\desktop\odtÜ\441\pa2\ee_airlines\ee_airlines\main.cpp
+	<iostream>
+	<cstdlib>
+	<time.h>
+	<string>
+	<fstream>
+
